@@ -1,5 +1,5 @@
 0x11. C - printf
-Team task by Tebogo and Thato github 
+Team task by Tebogo Mahloko and Thato Mogokotleng github 
 Write your own printf function.
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
  a Spur for life                                                                    
